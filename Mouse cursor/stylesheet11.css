@@ -1,0 +1,24 @@
+.d{
+	width: 100%;
+	height: 1500px;
+}
+.main{
+	height: 150px;
+	width:100%;
+}
+.i{
+	height: 100px;
+	width: 19%;
+	border:1px ;
+	margin: 3px 1px;
+	border-style: solid;
+	float: left;
+	box-shadow: 5px 4px 5px #306048;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 50px;
+	color: blue;
+	text-shadow: 5px 5px 5px red ;
+	border-radius: 40px;
+}
+
